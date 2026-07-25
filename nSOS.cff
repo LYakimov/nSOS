@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or the simulated biological baseline ranges, please cite it as below."
+authors:
+  - family-names: Yakimov
+    given-names: Luchezar
+    orcid: "https://orcid.org/0009-0007-6163-4022"
+title: "nSOS: Next-Generation Specific Oxidative Stress Index Framework for R"
+version: 1.0.0
+doi: 10.5281/zenodo.21535828
+date-released: 2026-07-25
+url: "https://github.com/LYakimov"
